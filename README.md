@@ -1,4 +1,4 @@
-# Musaics public .github repo
+# 🔓 Musaics public .github repo 🔓
 
 This repo is for customization of the organizations **public** view.
 
